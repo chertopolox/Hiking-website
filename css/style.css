@@ -551,8 +551,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_6_mini.png) 100% 0% 0% round;
-       border-image: url(../assets/bg/shape_6_mini.png) 100% 0% 0% round;
+    -o-border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
+       border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
   }
 
   .subscribe {
@@ -885,8 +885,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_6_mini.png) 100% 0% 0% round;
-       border-image: url(../assets/bg/shape_6_mini.png) 100% 0% 0% round;
+    -o-border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
+       border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
   }
 
   .subscribe__btn {
