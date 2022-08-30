@@ -159,8 +159,8 @@
     border-left: 0;
     border-bottom: 0;
     position: relative;
-    -o-border-image: url("assets/bg/shape_1.png") 100% 0% round;
-       border-image: url("assets/bg/shape_1.png") 100% 0% round;
+    -o-border-image: url("/images/bg/shape_1.png") 100% 0% round;
+       border-image: url("/images/bg/shape_1.png") 100% 0% round;
   }
 
   .intro__inner {
@@ -224,15 +224,15 @@
 
   .section {
     padding-bottom: 75px;
-    background: url(../assets/bg/cart_bg.jpg) center no-repeat;
+    background: url(..//images/bg/cart_bg.jpg) center no-repeat;
     background-size: cover;
     border: 50px solid #fff;
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
     position: relative;
-    -o-border-image: url("../assets/bg/shape_2.png") 100% 0%//50px 0 0 round;
-       border-image: url("../assets/bg/shape_2.png") 100% 0%//50px 0 0 round;
+    -o-border-image: url("..//images/bg/shape_2.png") 100% 0%//50px 0 0 round;
+       border-image: url("..//images/bg/shape_2.png") 100% 0%//50px 0 0 round;
   }
 
   .section__header {
@@ -399,15 +399,15 @@
 
   .partition {
     padding: 70px 0 150px 0;
-    background: url(../assets/bg/quote_bg.jpg) center no-repeat;
+    background: url(..//images/bg/quote_bg.jpg) center no-repeat;
     opacity: 0.8;
     position: relative;
     border: 80px solid #fff;
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url("../assets/bg/shape_3.png") 100% 0% 0% round;
-       border-image: url("../assets/bg/shape_3.png") 100% 0% 0% round;
+    -o-border-image: url("..//images/bg/shape_3.png") 100% 0% 0% round;
+       border-image: url("..//images/bg/shape_3.png") 100% 0% 0% round;
   }
 
   .quote {
@@ -438,14 +438,14 @@
 
   .element {
     padding: 0 0 70px 0;
-    background: url(../assets/bg/explore_bg.jpg) center no-repeat;
+    background: url(..//images/bg/explore_bg.jpg) center no-repeat;
     background-size: cover;
     border: 85px solid #fff;
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_4.png) 100% 0% 0%//30px 0 round;
-       border-image: url(../assets/bg/shape_4.png) 100% 0% 0%//30px 0 round;
+    -o-border-image: url(..//images/bg/shape_4.png) 100% 0% 0%//30px 0 round;
+       border-image: url(..//images/bg/shape_4.png) 100% 0% 0%//30px 0 round;
     position: relative;
   }
 
@@ -470,15 +470,15 @@
   }
 
   .segment {
-    background: url(../assets/bg/excerption_bg.jpg) center no-repeat;
+    background: url(..//images/bg/excerption_bg.jpg) center no-repeat;
     background-size: cover;
     position: relative;
     border: 80px solid #fff;
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_5.png) 100% 0% 0%//40px 0 0 round;
-       border-image: url(../assets/bg/shape_5.png) 100% 0% 0%//40px 0 0 round;
+    -o-border-image: url(..//images/bg/shape_5.png) 100% 0% 0%//40px 0 0 round;
+       border-image: url(..//images/bg/shape_5.png) 100% 0% 0%//40px 0 0 round;
     padding-bottom: 70px;
   }
 
@@ -545,14 +545,14 @@
 
   .item {
     padding: 100px 0 170px 0;
-    background: url(../assets/bg/shape_item.jpg);
+    background: url(..//images/bg/shape_item.jpg);
     background-size: cover;
     border: 30px solid #fff;
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
-       border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
+    -o-border-image: url(..//images/bg/shape_6.png) 100% 0% 0% round;
+       border-image: url(..//images/bg/shape_6.png) 100% 0% 0% round;
   }
 
   .subscribe {
@@ -632,14 +632,14 @@
 
   .footer {
     padding: 0;
-    background: url(../assets/bg/shape_footer.jpg);
+    background: url(..//images/bg/shape_footer.jpg);
     background-size: cover;
     border: 127px solid #fff;
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_7.png) 100% 0% 0%//70px 0 0 round;
-       border-image: url(../assets/bg/shape_7.png) 100% 0% 0%//70px 0 0 round;
+    -o-border-image: url(..//images/bg/shape_7.png) 100% 0% 0%//70px 0 0 round;
+       border-image: url(..//images/bg/shape_7.png) 100% 0% 0%//70px 0 0 round;
   }
 
   .contacts {
@@ -716,8 +716,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_4.png) 100% 0% 0%//50px 0 round;
-       border-image: url(../assets/bg/shape_4.png) 100% 0% 0%//50px 0 round;
+    -o-border-image: url(..//images/bg/shape_4.png) 100% 0% 0%//50px 0 round;
+       border-image: url(..//images/bg/shape_4.png) 100% 0% 0%//50px 0 round;
   }
 }
 @media (min-width: 768px) {
@@ -726,8 +726,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url("../assets/bg/shape_1.png") 100% 0% round;
-       border-image: url("../assets/bg/shape_1.png") 100% 0% round;
+    -o-border-image: url("..//images/bg/shape_1.png") 100% 0% round;
+       border-image: url("..//images/bg/shape_1.png") 100% 0% round;
   }
 
   .intro__title {
@@ -791,7 +791,7 @@
     width: 150px;
     height: 51px;
     background-color: #c3bfbc;
-    background-image: url("../assets/icons/searchicon.png");
+    background-image: url("..//images/icons/searchicon.png");
     background-position: 80% 50%;
     background-size: 30px;
     background-repeat: no-repeat;
@@ -814,8 +814,8 @@
     border-left: 0;
     border-right: 0;
     border-bottom: 0;
-    -o-border-image: url("../assets/bg/shape_2.png") 100% 0%//50px 0 0 round;
-       border-image: url("../assets/bg/shape_2.png") 100% 0%//50px 0 0 round;
+    -o-border-image: url("..//images/bg/shape_2.png") 100% 0%//50px 0 0 round;
+       border-image: url("..//images/bg/shape_2.png") 100% 0%//50px 0 0 round;
   }
 
   .cart__img {
@@ -834,8 +834,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url("../assets/bg/shape_3.png") 100% 0% 0% round;
-       border-image: url("../assets/bg/shape_3.png") 100% 0% 0% round;
+    -o-border-image: url("..//images/bg/shape_3.png") 100% 0% 0% round;
+       border-image: url("..//images/bg/shape_3.png") 100% 0% 0% round;
   }
 
   .element {
@@ -844,8 +844,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url("../assets/bg/shape_4.png") 100% 0% 0%//50px 0 round;
-       border-image: url("../assets/bg/shape_4.png") 100% 0% 0%//50px 0 round;
+    -o-border-image: url("..//images/bg/shape_4.png") 100% 0% 0%//50px 0 round;
+       border-image: url("..//images/bg/shape_4.png") 100% 0% 0%//50px 0 round;
   }
 
   .range {
@@ -871,8 +871,8 @@
 
   .segment {
     border: 70px solid #fff;
-    -o-border-image: url(../assets/bg/shape_5.png) 100% 0% 0%//50px 0 0 round;
-       border-image: url(../assets/bg/shape_5.png) 100% 0% 0%//50px 0 0 round;
+    -o-border-image: url(..//images/bg/shape_5.png) 100% 0% 0%//50px 0 0 round;
+       border-image: url(..//images/bg/shape_5.png) 100% 0% 0%//50px 0 0 round;
     border-left: 0;
     border-right: 0;
     border-bottom: 0;
@@ -885,8 +885,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
-       border-image: url(../assets/bg/shape_6.png) 100% 0% 0% round;
+    -o-border-image: url(..//images/bg/shape_6.png) 100% 0% 0% round;
+       border-image: url(..//images/bg/shape_6.png) 100% 0% 0% round;
   }
 
   .subscribe__btn {
@@ -912,8 +912,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url(../assets/bg/shape_7.png) 100% 0% 0%//100px 0 0 round;
-       border-image: url(../assets/bg/shape_7.png) 100% 0% 0%//100px 0 0 round;
+    -o-border-image: url(..//images/bg/shape_7.png) 100% 0% 0%//100px 0 0 round;
+       border-image: url(..//images/bg/shape_7.png) 100% 0% 0%//100px 0 0 round;
   }
 
   .contacts__item {
@@ -941,8 +941,8 @@
     border-right: 0;
     border-left: 0;
     border-bottom: 0;
-    -o-border-image: url("../assets/bg/shape_4.png") 100% 0% 0%//50px 0 round;
-       border-image: url("../assets/bg/shape_4.png") 100% 0% 0%//50px 0 round;
+    -o-border-image: url("..//images/bg/shape_4.png") 100% 0% 0%//50px 0 round;
+       border-image: url("..//images/bg/shape_4.png") 100% 0% 0%//50px 0 round;
   }
 
   .subscribe__input {
